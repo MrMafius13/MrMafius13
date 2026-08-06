@@ -50,6 +50,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMafius13&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrMafius13/MrMafius13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🌐 Conecta conmigo
