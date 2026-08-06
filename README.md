@@ -1,9 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Mateo</h1>
-<h3 align="center">💻 Full Stack Developer | Java • Spring • PHP • JavaScript</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=8A2BE2&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Construyendo+soluciones+web+prácticas+y+eficientes;Fan+del+código+limpio+y+la+mejora+continua;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
-</p>
+<h3 align="center">💻 Full Stack Developer Jr | Java • Spring • PHP • JavaScript</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:8A2BE2&height=130&section=header"/>
